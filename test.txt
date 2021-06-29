@@ -7,3 +7,5 @@ O Git é sensacional
 Vou testar algumas coisas aqui.
 Não sei se vai dar certo...
 Vou fazer isso em uma nova branch, por segurança.
+
+Fazendo um novo commit na minha nova branch
