@@ -9,3 +9,5 @@ Não sei se vai dar certo...
 Vou fazer isso em uma nova branch, por segurança.
 
 Fazendo um novo commit na minha nova branch
+
+Sigo trabalhando nessa branch, acho que vai ficar bom
